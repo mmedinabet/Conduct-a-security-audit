@@ -121,10 +121,13 @@ The following controls should be implemented when possible:
 - <b> Locking cabinets </b> 
 - <b> Signage indicating alarm service provider <b/>
 
+
+
+
 Summary/Recommendations:
 It's important to quickly address any problems related to following rules for online payments (PCI DSS) and data protection (GDPR) because Botium Toys accepts payments from worldwide customers, including the EU. The audit's goal is to limit permissions, so we should use advice from SOC1 and SOC2 about user access and data safety to make appropriate rules. Having plans for disasters and extra copies of things is crucial for keeping the business going during problems. Adding special software to our systems can help find and solve problems, especially since our old systems need constant watching. To make Botium Toys' building safer, we should use locks and cameras to protect things and watch for issues. Later on, it would be good to use codes and special safes, bright lights, locked boxes, and signs to improve security.
 
-
+</p>
 
 
 
