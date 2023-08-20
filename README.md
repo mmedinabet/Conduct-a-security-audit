@@ -22,20 +22,16 @@ Assets managed by the IT Department include:
 - <b>Badge readers</b>
 - <b>Legacy system maintenance: end-of-life systems that require human monitoring</b>
 
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Administrative, Technical and Physical Controls</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Administrative Controls </p>
+<img src="https://imgur.com/ij1AT9U"/> height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Conduct Security Audit"/>
 <br />
 <br />
 Enter the number of passes: <br/>
