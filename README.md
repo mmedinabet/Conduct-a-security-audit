@@ -106,7 +106,13 @@ Summary and Recommendations:
 
 Overall, the audit findings highlight areas requiring immediate action to mitigate risks and ensure compliance, as well as suggestions for further improving security measures for Botium Toys.
 
+Thank you, 
+Maria Elena Medina Betancourt
 </p>
+
+<h2> Conclusion</h2>
+
+The security audit exercise conducted for Botium Toys, a growing U.S.-based toy developer and seller with an expanding online presence, aimed to fortify cybersecurity measures and ensure compliance with regulations like PCI DSS and GDPR. Critical findings emphasized the immediate need for least privilege controls, disaster recovery planning, robust password policies, encryption, intrusion detection, backups, and physical security enhancements. Recommendations included urgent attention to compliance requirements, incorporation of SOC1 and SOC2 guidance, and the implementation of disaster recovery plans and additional security measures. Overall, the audit provided actionable insights to mitigate risks and enhance security posture as Botium Toys continues its online market expansion.
 
 
 
