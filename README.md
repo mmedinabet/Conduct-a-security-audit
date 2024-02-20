@@ -107,6 +107,7 @@ Summary and Recommendations:
 Overall, the audit findings highlight areas requiring immediate action to mitigate risks and ensure compliance, as well as suggestions for further improving security measures for Botium Toys.
 
 Thank you, 
+
 Maria Elena Medina Betancourt
 </p>
 
